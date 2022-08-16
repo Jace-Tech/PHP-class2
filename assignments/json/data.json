@@ -1,0 +1,13 @@
+{
+    "books" : [
+        {
+            "name": "Things fall apart",
+            "author": "Chinua Achebe"
+        },
+        {
+            "name": "Purple Hibiscus",
+            "author": "Chiamanda Adichie"
+        }
+    ],
+    "author": ["Chiamanda Adichie", "Chinua Achebe"]
+}
